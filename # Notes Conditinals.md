@@ -1,4 +1,4 @@
-# Notes Conditinals 
+# Notes Conditionals 
 
 ### Expression syntax:
 ```bash
